@@ -3,6 +3,7 @@
 html {
   box-sizing: border-box;
   font-size: 12px;
+  background-color:#2c333b;
 }
 
 *, *:before, *:after {
